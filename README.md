@@ -106,7 +106,7 @@ Returns: JSON string.
   "Debug": true,
   "Port": 9696,
   "Threads": 8,
-  UserTimeout: 432000000
+  "UserTimeout": 432000000
 }
 ```
 - `RestAuth` is the Discord Bot List Webhook Authorization.
